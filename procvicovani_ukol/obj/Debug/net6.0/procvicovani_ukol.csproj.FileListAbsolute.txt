@@ -1,0 +1,14 @@
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\procvicovani_ukol.GeneratedMSBuildEditorConfig.editorconfig
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\procvicovani_ukol.AssemblyInfoInputs.cache
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\procvicovani_ukol.AssemblyInfo.cs
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\procvicovani_ukol.csproj.CoreCompileInputs.cache
+U:\CS\procvicovani_ukol\bin\Debug\net6.0\procvicovani_ukol.exe
+U:\CS\procvicovani_ukol\bin\Debug\net6.0\procvicovani_ukol.deps.json
+U:\CS\procvicovani_ukol\bin\Debug\net6.0\procvicovani_ukol.runtimeconfig.json
+U:\CS\procvicovani_ukol\bin\Debug\net6.0\procvicovani_ukol.dll
+U:\CS\procvicovani_ukol\bin\Debug\net6.0\procvicovani_ukol.pdb
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\procvicovani_ukol.dll
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\refint\procvicovani_ukol.dll
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\procvicovani_ukol.pdb
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\procvicovani_ukol.genruntimeconfig.cache
+U:\CS\procvicovani_ukol\obj\Debug\net6.0\ref\procvicovani_ukol.dll
